@@ -1,6 +1,6 @@
 # marinalsz
 <img align="center" src="/assets/hi-barbie.png" alt="Hi Barbie">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZtcTFybjBiamV0NTQ4NnVrYTJqb3ZzN3Z5OTkzZWl0cmo4bWFzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qLVGt6Go1dQFp4qVcg/giphy.gif" width="40" height="40" />
+<img src="/assets/barbie.gif" width="40" height="40" />
 <h1 align="center" style="color:deeppink">I'm Marina</h1>
 <h2 align="center" style="color:deeppink">💎 This Barbie is a full-stack student 💎</h2>
 
