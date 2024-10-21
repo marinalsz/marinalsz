@@ -1,6 +1,6 @@
 # marinalsz
 <img align="center" src="/assets/hi-barbie.png" alt="Hi Barbie">
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/qLVGt6Go1dQFp4qVcg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/qLVGt6Go1dQFp4qVcg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/warnerbrosde-barbie-barbiemovie-barbiethemovie-qLVGt6Go1dQFp4qVcg">via GIPHY</a></p>
 <h1 align="center" style="color:deeppink">I'm Marina</h1>
 <h2 align="center" style="color:deeppink">💎 This Barbie is a full-stack student 💎</h2>
 
