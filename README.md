@@ -1,6 +1,8 @@
 # marinalsz
 <img align="center" src="/assets/hi-barbie.png" alt="Hi Barbie">
-<img align="center" src="/assets/barbie.gif" width="250" height="250"/>
+<div align="center>
+    <img src="/assets/barbie.gif" width="250" height="250" />
+</div>
 <h1 align="center" style="color:deeppink">I'm Marina</h1>
 <h2 align="center" style="color:deeppink">💎 This Barbie is a full-stack student 💎</h2>
 
